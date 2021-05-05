@@ -1,0 +1,16 @@
+* {
+  text-align: center;
+  background-color: #D7CEC7;
+  color: #76323F;
+}
+
+.my-info {
+  border:5px solid black;
+  width:30%;
+  padding:2%;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
